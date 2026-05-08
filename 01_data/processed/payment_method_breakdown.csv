@@ -1,0 +1,5 @@
+payment_method,total_gmv,total_transactions
+Card,14890.0,5
+NetBanking,3300.0,1
+UPI,2150.0,2
+Wallet,3000.0,2

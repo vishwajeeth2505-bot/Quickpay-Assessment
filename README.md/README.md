@@ -4,7 +4,7 @@
 - Student ID: [BITSOM_FTAI_2601115]
 
 ## Public GitHub Repository Link
-[To be updated after Github Upload]
+[https://github.com/vishwajeeth2505-bot/Quickpay-Assessment.git]
 
 ## Short Run Instructions
 1. Open 02_spreadsheet/spreadsheet_workbook.xlsx
